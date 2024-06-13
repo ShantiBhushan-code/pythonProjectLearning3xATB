@@ -1,5 +1,5 @@
 # Take a inout from user and prnt it
 
-fist_name =input("Enter your first name")
+first_name =input("Enter your first name")
 last_name =input("Enter your last name")
-print(fist_name + " " + last_name)
+print("Your name is", first_name + " " + last_name)
