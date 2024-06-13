@@ -41,3 +41,9 @@ print(a-b)
 print(a/b)
 print(a*b)
 print(a%b)
+
+# Ternary operator
+# Condition ? True : False
+a = 10
+b = 20
+print("Shanti" if a > b else "Bhushan")
