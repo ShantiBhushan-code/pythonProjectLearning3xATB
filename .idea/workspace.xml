@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0645b56-e534-4726-9615-1c09751c7517" name="Changes" comment="New files">
-      <change afterPath="$PROJECT_DIR$/Exercise_12june2024/LeapYearProgram.py" afterDir="false" />
+    <list default="true" id="c0645b56-e534-4726-9615-1c09751c7517" name="Changes" comment="New files added">
+      <change afterPath="$PROJECT_DIR$/Exercise_12june2024/Factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_14June2024/ArmstrongNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_17June2024/Function04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_17June2024/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_17June2024/function01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_17June2024/function03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_17June2024/functions02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/List" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/doubleinList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/function06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/function07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/function08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/lambdaexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_19June2024/tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,16 +63,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.AreaOfcircle.executor": "Run",
+    "Python.ArmstrongNumber.executor": "Run",
     "Python.Assignment.executor": "Run",
+    "Python.Factorial.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
     "Python.Lab003.executor": "Run",
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.LeapYearProgram.executor": "Run",
+    "Python.List.executor": "Run",
     "Python.Litrels.executor": "Run",
     "Python.Loop001.executor": "Run",
     "Python.Operators.executor": "Run",
+    "Python.TraingleAssignment.executor": "Run",
+    "Python.doubleinList.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.function01.executor": "Run",
+    "Python.function03.executor": "Run",
+    "Python.function06.executor": "Run",
+    "Python.function07.executor": "Run",
+    "Python.function08.executor": "Run",
+    "Python.functions02.executor": "Run",
+    "Python.lambdaexp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -189,7 +216,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718252435226</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1718327996505</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718327996505</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New files added">
+      <option name="closed" value="true" />
+      <created>1718328559293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718328559293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +240,7 @@
     <MESSAGE value="Add Lab003" />
     <MESSAGE value="Operators" />
     <MESSAGE value="New files" />
-    <option name="LAST_COMMIT_MESSAGE" value="New files" />
+    <MESSAGE value="New files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New files added" />
   </component>
 </project>
